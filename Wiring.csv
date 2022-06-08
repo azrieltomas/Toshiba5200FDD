@@ -1,0 +1,27 @@
+Toshiba Pin,Toshiba Signal,Drive Pin,Drive Signal
+1,5V,-,(5V supply)
+2,!INDEX,8,!Index
+3,5V,-,(5V supply)
+4,!FDSELA,12,!Drive select B
+5,5V,-,(5V supply)
+6,!DSKCHG,34,!Disk change
+7,5V,-,(5V supply)
+8,!READY,5,GND
+9,!NOTCH,-,GND
+10,!MONA,16,!Motor on B
+11,!LOWDNS,2,!High density
+12,!FDCDRC,18,!Direction
+13,GND,19,GND
+14,!STEP,20,!STEP
+15,GND,21,GND
+16,!WDATA,22,!Write data
+17,GND,23,GND
+18,!WGATE,24,!Write enable
+19,GND,25,GND
+20,!TRACK0,26,!Track 0
+21,GND,27,GND
+22,!WPROTC,28,!Write protect
+23,GND,29,GND
+24,!RDDA,30,!Read data
+25,GND,31,GND
+26,!SIDE,32,!Side select
